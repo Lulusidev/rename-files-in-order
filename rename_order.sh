@@ -20,7 +20,7 @@ fi
 
 main(){
     #initilizing counter for use in name
-    j=$begin_number
+    counter=$begin_number
     
     for file in $path/*;do
             
@@ -30,7 +30,7 @@ main(){
 
         mv $file $new_name
         #add 1 for counter    
-        let j=$j+1
+        let counter=$counter+1
 
     done
 }
