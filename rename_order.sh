@@ -26,7 +26,7 @@ main(){
             
         file_extension=${file##*.}
         #format string of filename
-        new_name=$path/$(printf "%03i.%s" $j "$file_extension")
+        new_name=$path/$(printf "%03i.%s" $counter $file_extension )
 
         mv $file $new_name
         #add 1 for counter    
