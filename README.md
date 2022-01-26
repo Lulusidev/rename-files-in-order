@@ -17,4 +17,4 @@ Copy the link of repository and do a git clone
 
 OBS:the default begin number is 0
 
-![video](/home/agua_manj/2022-01-26_11-16-15.mp4)
+![gif_usage](https://media4.giphy.com/media/tFA9eHYFzVZHJnNoGu/giphy.gif)
