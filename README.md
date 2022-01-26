@@ -18,3 +18,5 @@ Copy the link of repository and do a git clone
 OBS:the default begin number is 0
 
 ![gif_usage](https://media4.giphy.com/media/tFA9eHYFzVZHJnNoGu/giphy.gif)
+
+[turorial-in-portuguese](https://www.youtube.com/watch?v=qjxaLZmmRIkl)
